@@ -1,0 +1,49 @@
+BOlão SenacBrasil
+__________________
+- Datas das Partidas
+- Seleções Participativas de cada grupo
+- Cada vitória ganha 3 pontos, empate 1 Ponto e Derrota o pontos
+- Os grupos se dividiram em 8 Grupos de 4 Seleçoes onde se enfrentaram, e apenas duas seleções serão classificadas, Em caso de igualdade de pontuação serão critérios de desenpate: 1) Melhor saldo de gols, 2) Mais gols pró, 3) Confronto direto, 4) Menos cartões Vermelhos e Amarelos, 5)Sorteio
+Os dois times se enfrentam em um turno único onde quem vencer soma 3 pontos, quem empatar soma 1 ponto e quem perder soma nenhum pontos. 
+Caso a fase de Oitavas, Quartas, Semi e Finais terminem empatado haverá prorrogação e mesmo assim ainda estiver empatado haverá disputa por pênlatis.
+
+Oitava 1 - 1ºA X 2ºB
+Oitava 2 - 1ºC X 2ºD
+Oitava 3 - 1ºE X 2ºF
+Oitava 4 - 1ºG X 2ºH
+Oitava 5 - 1ºB X 2ºA
+Oitava 6 - 1ºD X 2ºC
+Oitava 7 - 1ºF X 2ºE
+Oitava 8 - 1ºH X 2ºG
+
+Na fase anterior continua valendo a regra de disputa por penâltis
+
+           Oitavas de Final
+
+Vencedor Oitavas 1 X Vencedor Oitavas 2
+Vencedor Oitavas 3 X Vencedor Oitavas 4
+Vencedor Oitavas 5 X Vencedor Oitavas 6 
+Vencedor Oitavas 7 X Vencedor Oitavas 8
+
+           Quartas de Final
+
+Vencedor Quartas 1 X Vencedor Quartas 2
+Vencedor Quartas 2 X Vencedor Quartas 4
+
+
+          Decisão de 3ºLugar
+
+Perdedor Semifinal 1 X Perdedor Semifinal 2
+
+            Decisão Final
+
+Vencedor Semifinal 1 X Vencedor Semifinal 2
+
+Gols da seleção 1 (MANDANTE DO jOGO)
+Gols da seleção 2 
+
+Nomes dos jogadores do Gol da Seleção 1
+Nomes dos jogadores do Gol da Seleção 2
+Time vencedor
+Time perdedor
+Em caso de empate, os gols marcados, e quem foi o vencedor
